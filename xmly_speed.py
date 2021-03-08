@@ -47,7 +47,7 @@ if "AUTO_TAKE_OUT" in os.environ:
 devices = []
 notify_time = 12                            # 通知时间,24小时制,默认19
 XMLY_ACCUMULATE_TIME = 1                    # 希望刷时长的,此处置1,默认打开;关闭置0
-UserAgent = "ting_1.8.42(V1950A,Android29)"
+UserAgent = "ting_1.8.42(V1950A,Android29),ting_1.8.42(V2031A,Android29),ting_1.8.42(P40,Android25)"
 # 非iOS设备的需要的自行修改,自己抓包 与cookie形式类似
 
 def str2dict(str_cookie):
