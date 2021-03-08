@@ -750,7 +750,7 @@ def saveListenTime(cookies, date_stamp):
 def listenData(cookies, date_stamp):
     print("\n【刷时长2】")
     headers = {
-        'User-Agent': 'ting_v1.1.9_c5(CFNetwork, iOS 14.0.1, iPhone9,2)',
+        'User-Agent': 'ting_1.8.42(V1950A,Android29)',
         'Host': 'm.ximalaya.com',
         'Content-Type': 'application/json',
     }
