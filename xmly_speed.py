@@ -45,7 +45,7 @@ if "AUTO_TAKE_OUT" in os.environ:
 
 # 自定义设备命名,非必须 ;devices=["iPhone7P","huawei"];与cookiesList对应
 devices = []
-notify_time = 12                            # 通知时间,24小时制,默认19
+notify_time = 09                            # 通知时间,24小时制,默认19
 XMLY_ACCUMULATE_TIME = 1                    # 希望刷时长的,此处置1,默认打开;关闭置0
 UserAgent = "ting_1.8.42(V1950A,Android29),ting_1.8.42(V2031A,Android29),ting_1.8.42(P40,Android25)"
 # 非iOS设备的需要的自行修改,自己抓包 与cookie形式类似
